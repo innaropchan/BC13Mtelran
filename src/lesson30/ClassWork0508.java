@@ -1,3 +1,5 @@
+package lesson30;
+
 import lesson29.GoodMorningArraysDayTwo;
 
 public class ClassWork0508 {
